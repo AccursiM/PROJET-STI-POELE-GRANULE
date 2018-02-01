@@ -1,0 +1,6 @@
+POUR 10 % : 0.71 po
+POUR 20 % : 1.43 po
+POUR 30 % : 2.15 po
+POUR 40 % : 2.87 po
+POUR 50 % : 3.59 po
+POUR 60 % : 4.30 po
